@@ -1,0 +1,4 @@
+sample_ids: ../DoD/sample_ids.txt
+outdir: ../DoD/run1/
+sra_project_id: DoD_run1
+paired_end: true
